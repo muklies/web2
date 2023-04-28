@@ -1,5 +1,5 @@
 <?php
-echo "Data Mahasiswa"
+echo "Data Mahasiswammmm"
 <label>Nama</label> <br>
 input name="Nama" type="text" placeholder ="Masukan nama" 
 <label>Alamat</label> <br>
